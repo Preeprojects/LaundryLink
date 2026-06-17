@@ -1,0 +1,36 @@
+class AppStrings {
+  static const String appName = 'LaundryLink';
+  static const String welcome = 'Welcome to LaundryLink';
+  static const String login = 'Login';
+  static const String register = 'Register';
+  static const String fullName = 'Full Name';
+  static const String studentId = 'Student ID';
+  static const String email = 'Email';
+  static const String password = 'Password';
+  static const String confirmPassword = 'Confirm Password';
+  static const String dontHaveAccount = "Don't have an account?";
+  static const String alreadyHaveAccount = 'Already have an account?';
+  static const String dashboard = 'Dashboard';
+  static const String myBookings = 'My Bookings';
+  static const String notifications = 'Notifications';
+  static const String profile = 'Profile';
+  static const String logout = 'Logout';
+  static const String bookMachine = 'Book Machine';
+  static const String selectDate = 'Select Date';
+  static const String selectTime = 'Select Time';
+  static const String selectMachine = 'Select Machine';
+  static const String confirmBooking = 'Confirm Booking';
+  static const String cancelBooking = 'Cancel Booking';
+  static const String bookingConfirmed = 'Booking Confirmed!';
+  static const String bookingCancelled = 'Booking Cancelled';
+  static const String noBookings = 'No Bookings Yet';
+  static const String noNotifications = 'No Notifications';
+  static const String available = 'Available';
+  static const String inUse = 'In Use';
+  static const String maintenance = 'Maintenance';
+  static const String requiredField = 'This field is required';
+  static const String invalidEmail = 'Please enter a valid email';
+  static const String invalidStudentId = 'Please enter a valid student ID';
+  static const String passwordTooShort = 'Password must be at least 6 characters';
+  static const String passwordsDoNotMatch = 'Passwords do not match';
+}
